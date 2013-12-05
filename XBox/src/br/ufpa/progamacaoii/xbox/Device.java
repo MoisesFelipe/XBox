@@ -1,5 +1,4 @@
 
-
 /** Codigo revisado por Leonardo Afonso
  * 
  * Comentários:
@@ -9,7 +8,7 @@
  * Métodos funcionais e muito interessantes
  * Construtores bem implementados
  * Nota 10.
-
+*/
 
 package br.ufpa.progamacaoii.xbox;
 
